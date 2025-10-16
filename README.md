@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Trung Nguyen  
 
 **🎓 Student | 🚀 Small E-commerce Owner @ [OmaCustom.fi](https://omacustom.fi)**  
-💻 Self-studying Frontend Development  
-React, Js & styled-components 🔄  
-eCommerce, marketing, business owner
+💻 Self-studying **Fullstack Development**  
+Tech stack: React, TypeScript, Styled-Components, Node.js, Express, MongoDB, Mongoose, MySQL  
+🛍 eCommerce | 💡 Marketing | 🧑‍💼 Business Owner  
 ⏳ Progress: **Loading... 50%**
 
 ---
@@ -13,38 +13,40 @@ eCommerce, marketing, business owner
 - 🛍 Running a small e-commerce business: [OmaCustom.fi](https://omacustom.fi)  
 - 📈 5+ years of experience in **Dropshipping & Print-on-Demand (POD)**  
 - 🛒 Platforms: **Shopify, ShopBase**  
-- 🎯 Skilled in **Facebook Ads & digital marketing**  
-- 🚀 Goal: Become a professional **Frontend Developer** while combining tech + e-commerce 
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungnguyen1221999&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungnguyen1221999&layout=compact&theme=radical)
+- 🚀 Goal: Become a professional **Fullstack Developer**, combining **tech + e-commerce**
 
 ---
 
 ## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
-![JS Cookies](https://img.shields.io/badge/JS--Cookies-5A29E4?style=for-the-badge&logo=js&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
-![Formik](https://img.shields.io/badge/Formik-00CFFF?style=for-the-badge&logo=formik&logoColor=white)  
-![Yup](https://img.shields.io/badge/Yup-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)  
-![React Toastify](https://img.shields.io/badge/React_Toastify-FF5A5F?style=for-the-badge&logo=react&logoColor=white)
+
+**Frontend:**  
+[HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 ## 📦 E-commerce & Marketing Skills
-- 5 years in **Dropshipping** & **POD (Print-on-Demand)**  
+
+- 5+ years in **Dropshipping** & **POD (Print-on-Demand)**  
 - Platforms: **Shopify, ShopBase**  
-- **Facebook Ads** campaign management  
-- Strong focus on **product quality & marketing strategy**  
+- Experienced in **Facebook Ads** and **digital marketing strategy**  
+- Focused on **product quality & brand growth**
 
 ---
+
 ⭐️ From [Trung Nguyen](https://github.com/trungnguyen1221999)
