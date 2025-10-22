@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Trung Nguyen  
 <p align="center">
-  <img src="./logo.png" alt="OmaCustom.fi Logo" width="200"/>
+  <img src="[./logo.png](https://i.imgur.com/kbNH9ow.jpeg)" alt="OmaCustom.fi Logo" width="200"/>
 </p>
 **🎓 Student | 🚀 Small E-commerce Owner @ [OmaCustom.fi](https://omacustom.fi)**  
 **Fullstack & Game Development**  
