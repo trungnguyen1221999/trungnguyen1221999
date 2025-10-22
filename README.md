@@ -12,7 +12,7 @@ Tech stack: React, TypeScript, Node.js, Express, MongoDB, MySQL, Unity, C#
 
 ## 🔥 About Me
 
-- 💻 **Fullstack Development** (React, Node.js, Express, MongoDB, MySQL)  
+- 💻 **Fullstack Development** (React, Node.js, Express, MongoDB, MySQL, TypeScripts, JavaScripts, C#)  
 - 🎮 **Game Development** with **Unity & C#** for creative projects  
 - 🚀 Goal: Become a professional **Fullstack Developer**, combining **tech + e-commerce**
 - 🛍 Running a small e-commerce business: [OmaCustom.fi](https://omacustom.fi)  
