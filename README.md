@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Trung Nguyen  
 
 **🎓 Student | 🚀 Small E-commerce Owner @ [OmaCustom.fi](https://omacustom.fi)**  
-💻 Self-studying **Fullstack Development**  
-Tech stack: React, TypeScript, Styled-Components, Node.js, Express, MongoDB, Mongoose, MySQL  
+**Fullstack & Game Development**  
+Tech stack: React, TypeScript, Node.js, Express, MongoDB, MySQL, Unity, C#  
 🛍 eCommerce | 💡 Marketing | 🧑‍💼 Business Owner  
 ⏳ Progress: **Loading... 50%**
 
@@ -10,10 +10,13 @@ Tech stack: React, TypeScript, Styled-Components, Node.js, Express, MongoDB, Mon
 
 ## 🔥 About Me
 
+- 💻 **Fullstack Development** (React, Node.js, Express, MongoDB, MySQL)  
+- 🎮 **Game Development** with **Unity & C#** for creative projects  
+- 🚀 Goal: Become a professional **Fullstack Developer**, combining **tech + e-commerce**
 - 🛍 Running a small e-commerce business: [OmaCustom.fi](https://omacustom.fi)  
 - 📈 5+ years of experience in **Dropshipping & Print-on-Demand (POD)**  
 - 🛒 Platforms: **Shopify, ShopBase**  
-- 🚀 Goal: Become a professional **Fullstack Developer**, combining **tech + e-commerce**
+
 
 ---
 
@@ -38,14 +41,18 @@ Tech stack: React, TypeScript, Styled-Components, Node.js, Express, MongoDB, Mon
 ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Game Development:**  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ---
 
 ## 📦 E-commerce & Marketing Skills
 
 - 5+ years in **Dropshipping** & **POD (Print-on-Demand)**  
 - Platforms: **Shopify, ShopBase**  
-- Experienced in **Facebook Ads** and **digital marketing strategy**  
-- Focused on **product quality & brand growth**
+- Experienced in **Facebook Ads**, **branding**, and **digital marketing**  
+- Focused on **product quality** & **long-term brand growth**
 
 ---
 
