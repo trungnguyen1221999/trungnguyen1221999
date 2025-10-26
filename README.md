@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Trung Nguyen  
+# 👋 Hi, I’m Trung Nguyen, You can also call me Kai
 <p align="center">
   <img src="https://i.imgur.com/kbNH9ow.jpeg" alt="OmaCustom.fi Logo" width="1000"/>
 </p>
