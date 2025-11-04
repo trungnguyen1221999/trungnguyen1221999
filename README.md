@@ -57,6 +57,8 @@ Tech stack: React, NextJs, TypeScript, Node.js, Express, MongoDB, MySQL, Unity, 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Game Screenshot](https://img.itch.zone/aW1hZ2UvMzg3ODg4MS8yMzE0NzU4Ni5wbmc=/original/tL53km.png) <!-- Replace with actual image path -->
+<img src="https://i.imgur.com/vmQp3OQ.png" alt="" width="1000"/>
+
 ---
 
 ## 📦 E-commerce & Marketing Skills
