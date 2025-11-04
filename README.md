@@ -5,7 +5,9 @@
 Tech stack: React, TypeScript, Node.js, Express, MongoDB, MySQL, Unity, C#  
 🛍 eCommerce | 💡 Marketing | 🧑‍💼 Business Owner  
 ⏳ Progress: **Loading... 50%**
-
+<p align="center">
+  <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="1000"/>
+</p>
 ---
 
 ## 🔥 About Me
