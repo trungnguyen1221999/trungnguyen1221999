@@ -8,6 +8,11 @@ Tech stack: React, NextJs, TypeScript, Node.js, Express, MongoDB, MySQL, Unity, 
 <p align="center">
   <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="1000"/>
 </p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/NOYMrQD.png" alt="" width="1000"/>
+</p>
 ---
 
 ## 🔥 About Me
