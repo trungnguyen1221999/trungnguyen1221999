@@ -7,6 +7,8 @@ Tech stack: React, NextJs, TypeScript, Node.js, Express, MongoDB, MySQL, Unity, 
 ⏳ Progress: **Loading... 50%**
 <p align="center">
   <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/YvOg0xg.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/6drL7qV.png" alt="" width="1000"/>
 </p>
 
 <p align="center">
