@@ -2,9 +2,8 @@
 
 **🎓 Student | 🚀 Small E-commerce Owner @ [OmaCustom.fi](https://omacustom.fi)**  
 **Fullstack & Game Development**  
-Tech stack: React, NextJs, TypeScript, Node.js, Express, MongoDB, MySQL, Unity, C#  
+Tech stack: React, NextJs, TypeScript, TailwindCss, Styled Components, Node.js, Express, MongoDB, MySQL, Unity, C#  
 🛍 eCommerce | 💡 Marketing | 🧑‍💼 Business Owner  
-⏳ Progress: **Loading... 50%**
 <p align="center">
   <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="1000"/>
   <img src="https://i.imgur.com/YvOg0xg.png" alt="" width="1000"/>
