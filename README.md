@@ -4,6 +4,18 @@
 **Fullstack & Game Development**  
 Tech stack: React, NextJs, TypeScript, TailwindCss, Styled Components, Node.js, Express, MongoDB, MySQL, Unity, C#  
 🛍 eCommerce | 💡 Marketing | 🧑‍💼 Business Owner  
+
+
+![Admin](https://i.imgur.com/4OMQh0M.png)
+![Admin](https://i.imgur.com/1G5hLXg.png)
+![Admin](https://i.imgur.com/h81BxO8.png)
+![Admin](https://i.imgur.com/zYEVqf1.png)
+![Admin](https://i.imgur.com/ckzJvAs.png)
+![Cart](https://i.imgur.com/b4IFQ0x.png)
+![Checkout](https://i.imgur.com/kkMwDYO.png)
+![Checkout](https://i.imgur.com/JZFfVQ6.png)
+![History](https://i.imgur.com/bTVhC1S.png)
+
 <p align="center">
   <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="1000"/>
   <img src="https://i.imgur.com/YvOg0xg.png" alt="" width="1000"/>
