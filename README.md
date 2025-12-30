@@ -17,21 +17,21 @@ Tech stack: JavaScript/ TypeScript, C#, React, NextJs, TailwindCss, Styled Compo
 ![History](https://i.imgur.com/bTVhC1S.png)
 
 <p align="center">
-  <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="1000"/>
-  <img src="https://i.imgur.com/YvOg0xg.png" alt="" width="1000"/>
-  <img src="https://i.imgur.com/AcVK5ZE.png" alt="" width="1000"/>
-   <img src="https://i.imgur.com/ZJLf5oy.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="800"/>
+  <img src="https://i.imgur.com/YvOg0xg.png" alt="" width="800"/>
+  <img src="https://i.imgur.com/AcVK5ZE.png" alt="" width="800"/>
+   <img src="https://i.imgur.com/ZJLf5oy.png" alt="" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/NOYMrQD.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/NOYMrQD.png" alt="" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UdfewJD.png" alt="" width="1000"/>
-    <img src="https://i.imgur.com/MQML4Sy.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/UdfewJD.png" alt="" width="800"/>
+    <img src="https://i.imgur.com/MQML4Sy.png" alt="" width="800"/>
 
-  <img src="https://i.imgur.com/LmGevaL.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/LmGevaL.png" alt="" width="800"/>
 </p>
 ---
 
@@ -84,7 +84,7 @@ Tech stack: JavaScript/ TypeScript, C#, React, NextJs, TailwindCss, Styled Compo
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Game Screenshot](https://img.itch.zone/aW1hZ2UvMzg3ODg4MS8yMzE0NzU4Ni5wbmc=/original/tL53km.png) <!-- Replace with actual image path -->
 <p align="center">
-<img src="https://i.imgur.com/vmQp3OQ.png" alt="" width="1000"/>
+<img src="https://i.imgur.com/vmQp3OQ.png" alt="" width="800"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Tech stack: JavaScript/ TypeScript, C#, React, NextJs, TailwindCss, Styled Compo
 - Experienced in **Facebook Ads**, **branding**, and **digital marketing**  
 - Focused on **product quality** & **long-term brand growth**
 <p align="center">
-  <img src="https://i.imgur.com/kbNH9ow.jpeg" alt="OmaCustom.fi Logo" width="1000"/>
+  <img src="https://i.imgur.com/kbNH9ow.jpeg" alt="OmaCustom.fi Logo" width="800"/>
 </p>
 ---
 
