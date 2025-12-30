@@ -37,7 +37,7 @@ Tech stack: JavaScript/ TypeScript, C#, React, NextJs, TailwindCss, Styled Compo
 
 ## 🔥 About Me
 
-- 💻 **Fullstack Development** (React, Node.js, Express, MongoDB, MySQL, TypeScripts, JavaScripts, C#)  
+- 💻 **Fullstack Web Development** (JavaScript/ TypeScript, React, NextJs, TailwindCss, Styled Components, Node.js, Express, NoSql, SQL, Redis, Docker)  
 - 🎮 **Game Development** with **Unity & C#** for creative projects  
 - 🚀 Goal: Become a professional **Fullstack Developer**, combining **tech + e-commerce**
 - 🛍 Running a small e-commerce business: [OmaCustom.fi](https://omacustom.fi)  
