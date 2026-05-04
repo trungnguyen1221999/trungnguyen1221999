@@ -5,14 +5,10 @@
 Tech stack: JavaScript/ TypeScript, C#, React, NextJs, TailwindCss, Styled Components, Node.js, Express, NoSql, SQL, Docker, Redis, Unity
 🛍 eCommerce | 💡 Marketing | 🧑‍💼 Business Owner  
 
-
+![home](https://i.imgur.com/xJ8cyTv.png)
+![home](https://i.imgur.com/sWiO9Uw.png)
+[![Watch demo](https://i.imgur.com/m2MfxZI.png)](https://i.imgur.com/CE3ABHE.mp4)
 ![Admin](https://i.imgur.com/4OMQh0M.png)
-![Admin](https://i.imgur.com/1G5hLXg.png)
-![Admin](https://i.imgur.com/h81BxO8.png)
-![Admin](https://i.imgur.com/zYEVqf1.png)
-![Admin](https://i.imgur.com/ckzJvAs.png)
-![Cart](https://i.imgur.com/b4IFQ0x.png)
-![Checkout](https://i.imgur.com/kkMwDYO.png)
 ![Checkout](https://i.imgur.com/JZFfVQ6.png)
 ![History](https://i.imgur.com/bTVhC1S.png)
 
