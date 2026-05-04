@@ -15,8 +15,7 @@ Tech stack: JavaScript/ TypeScript, C#, React, NextJs, TailwindCss, Styled Compo
 <p align="center">
   <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="800"/>
   <img src="https://i.imgur.com/YvOg0xg.png" alt="" width="800"/>
-  <img src="https://i.imgur.com/AcVK5ZE.png" alt="" width="800"/>
-   <img src="https://i.imgur.com/ZJLf5oy.png" alt="" width="800"/>
+  <img src="https://i.imgur.com/ZJLf5oy.png" alt="" width="800"/>
 </p>
 
 <p align="center">
