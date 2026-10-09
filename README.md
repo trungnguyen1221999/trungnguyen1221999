@@ -8,26 +8,6 @@ Tech stack: C#, ASP.NET Core, JavaScript/ TypeScript, React, Next.js, Node.js, E
 ![home](https://i.imgur.com/xJ8cyTv.png)
 ![home](https://i.imgur.com/sWiO9Uw.png)
 [![Watch demo](https://i.imgur.com/m2MfxZI.png)](https://i.imgur.com/CE3ABHE.mp4)
-![Admin](https://i.imgur.com/4OMQh0M.png)
-![Checkout](https://i.imgur.com/JZFfVQ6.png)
-![History](https://i.imgur.com/bTVhC1S.png)
-
-<p align="center">
-  <img src="https://i.imgur.com/3sKu5zW.png" alt="" width="800"/>
-  <img src="https://i.imgur.com/YvOg0xg.png" alt="" width="800"/>
-  <img src="https://i.imgur.com/ZJLf5oy.png" alt="" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/NOYMrQD.png" alt="" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/UdfewJD.png" alt="" width="800"/>
-  <img src="https://i.imgur.com/MQML4Sy.png" alt="" width="800"/>
-  <img src="https://i.imgur.com/LmGevaL.png" alt="" width="800"/>
-</p>
-
 ---
 
 ## 🔥 About Me
