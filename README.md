@@ -52,25 +52,20 @@ Tech stack: C#, ASP.NET Core, JavaScript/ TypeScript, React, Next.js, Node.js, E
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Game Development
+# VoiceCraft 2
 
+**VoiceCraft 2** is a 2D space-shooter game developed during the summer of 2025, based on a prototype originally built for a game jam. This expanded version takes the core ideas of the original and evolves them into a full-scale arcade experience with 10 levels and 80 unique stages.
+## Watch GameTrailer
+
+[![Watch the Gameplay](https://img.itch.zone/aW1hZ2UvMzg3ODg4MS8yMzE0MzI4Ny5wbmc=/original/LLgmG2.png)](https://youtu.be/6_8tShNmiUM)
+
+![Game Screenshot](https://img.itch.zone/aW1hZ2UvMzg3ODg4MS8yMzE0NzU4Ni5wbmc=/original/tL53km.png) <!-- Replace with actual image path -->
+![Game Screenshot](https://img.itch.zone/aW1hZ2UvMzg3ODg4MS8yMzE0MzMxMi5wbmc=/original/7W1W8B.png) <!-- Replace with actual image path -->
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <p align="center">
   <img src="https://i.imgur.com/vmQp3OQ.png" alt="Game Screenshot" width="800"/>
-</p>
-
----
-
-## 📦 E-commerce & Marketing Skills
-
-- 5+ years in **Dropshipping** & **POD (Print-on-Demand)**  
-- Platforms: **Shopify, ShopBase**  
-- Experienced in **Facebook Ads**, **Branding**, and **Digital Marketing**  
-- Focused on **Product Quality** & **Long-term Brand Growth**
-
-<p align="center">
-  <img src="https://i.imgur.com/kbNH9ow.jpeg" alt="OmaCustom.fi Logo" width="800"/>
 </p>
 
 ---
