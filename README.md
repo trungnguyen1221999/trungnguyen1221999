@@ -1,9 +1,6 @@
 # 👋 Hi, I’m Trung Nguyen, You can also call me Kai
-
-**🎓 Student | 🚀 Small E-commerce Owner @ [OmaCustom.fi](https://omacustom.fi)**  
-**Fullstack & Game Development**  
-Tech stack: C#, ASP.NET Core, JavaScript/ TypeScript, React, Next.js, Node.js, Express, SQL, NoSQL, Docker, Redis, Unity  
-🛍 eCommerce | 💡 Marketing | 🧑‍💼 Business Owner  
+**Backend | Fullstack | Game Development**  
+Tech stack: C#, ASP.NET Core, JavaScript/ TypeScript, React, Next.js, Node.js, SQL, NoSQL, Docker, Redis, Unity  
 
 ![home](https://i.imgur.com/xJ8cyTv.png)
 ![home](https://i.imgur.com/sWiO9Uw.png)
@@ -37,11 +34,10 @@ Tech stack: C#, ASP.NET Core, JavaScript/ TypeScript, React, Next.js, Node.js, E
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Database
+### Backend
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET__Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
