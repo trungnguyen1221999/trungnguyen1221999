@@ -60,9 +60,6 @@ Tech stack: C#, ASP.NET Core, JavaScript/ TypeScript, React, Next.js, Node.js, S
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<p align="center">
-  <img src="https://i.imgur.com/vmQp3OQ.png" alt="Game Screenshot" width="800"/>
-</p>
 
 ---
 
